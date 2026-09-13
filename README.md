@@ -75,7 +75,13 @@ Criador do **WbMonster Enterprise OS**, um ecossistema com 17 agentes especialis
 | **[WbMonster Hub](https://github.com/HenriquePizara/wbmonster-hub)** | Orquestrador Supremo de Engenharia, 17 Agentes, Daemons e Governança Corporativa. | 🟢 Ativo |
 | **[Moveartech Climatização](https://github.com/HenriquePizara/moveartech-climatizacao)** | Plataforma e portal institucional de engenharia térmica e serviços técnicos de climatização. | 🟢 Produção ([moveartech.com.br](https://moveartech.com.br)) |
 | **[Belyx](https://belyx.com.br)** | Sistema de gestão de agendamentos com IA e motor de clubes de assinatura recorrente. | 🟢 Ativo ([belyx.com.br](https://belyx.com.br)) |
-| **EGIS 360 QA** | Suite de Quality Assurance heurístico automatizado em lote para ERP industrial. | 🟢 Em Operação |
+| **[GLP-1 Care](https://github.com/HenriquePizara/glp1care)** | Plataforma especializada em gestão clínica e acompanhamento de tratamentos GLP-1. | 🟢 Produção ([glp1care.com.br](https://glp1care.com.br)) |
+| **[Congelart BI](https://github.com/HenriquePizara/aplicacao_congelart)** | Business Intelligence e Analytics operacional para indústria de alimentos congelados. | 🟢 Em Operação |
+| **[Estoque Laboratorial](https://github.com/HenriquePizara/estoque-laboratoria)** | Sistema de rastreabilidade e gestão em tempo real de reagentes e amostras clínicas. | 🟢 Em Operação |
+| **Inspetor Qualidade Injeção (LTIQ)** | Inspeção visual multimodal com IA para injeção plástica e emissão de laudos oficiais PDF. | 🟢 Homologado |
+| **EGIS 360 QA** | Suite de Quality Assurance heurístico automatizado em lote para ERP industrial EGIS Net. | 🟢 Em Operação |
+| **[Bariloche Gourmet](https://github.com/HenriquePizara/encomendas-bariloche-gourmet)** | Plataforma de gestão de encomendas, produção e delivery gastronômico artesanal. | 🟢 Ativo |
+
 
 ---
 
