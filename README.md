@@ -78,7 +78,7 @@ Criador do **WbMonster Enterprise OS**, um ecossistema com 17 agentes especialis
 | **[GLP-1 Care](https://github.com/HenriquePizara/glp1care)** | Plataforma especializada em gestão clínica e acompanhamento de tratamentos GLP-1. | 🟢 Produção ([glp1care.com.br](https://glp1care.com.br)) |
 | **[Congelart BI](https://github.com/HenriquePizara/aplicacao_congelart)** | Business Intelligence e Analytics operacional para indústria de alimentos congelados. | 🟢 Em Operação |
 | **[Estoque Laboratorial](https://github.com/HenriquePizara/estoque-laboratoria)** | Sistema de rastreabilidade e gestão em tempo real de reagentes e amostras clínicas. | 🟢 Em Operação |
-| **Inspetor Qualidade Injeção (LTIQ)** | Inspeção visual multimodal com IA para injeção plástica e emissão de laudos oficiais PDF. | 🟢 Homologado |
+| **[Inspetor Qualidade Injeção (LTIQ)](https://github.com/HenriquePizara/qualidade-injecao)** | Inspeção visual multimodal com IA para injeção plástica e emissão de laudos oficiais PDF. | 🟢 Homologado |
 | **EGIS 360 QA** | Suite de Quality Assurance heurístico automatizado em lote para ERP industrial EGIS Net. | 🟢 Em Operação |
 | **[Bariloche Gourmet](https://github.com/HenriquePizara/encomendas-bariloche-gourmet)** | Plataforma de gestão de encomendas, produção e delivery gastronômico artesanal. | 🟢 Ativo |
 
