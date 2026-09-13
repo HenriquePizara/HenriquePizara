@@ -74,13 +74,16 @@ Criador do **WbMonster Enterprise OS**, um ecossistema com 17 agentes especialis
 | :--- | :--- | :---: |
 | **[WbMonster Hub](https://github.com/HenriquePizara/wbmonster-hub)** | Orquestrador Supremo de Engenharia, 17 Agentes, Daemons e Governança Corporativa. | 🟢 Ativo |
 | **[Moveartech Climatização](https://github.com/HenriquePizara/moveartech-climatizacao)** | Plataforma e portal institucional de engenharia térmica e serviços técnicos de climatização. | 🟢 Produção ([moveartech.com.br](https://moveartech.com.br)) |
-| **[Belyx](https://belyx.com.br)** | Sistema de gestão de agendamentos com IA e motor de clubes de assinatura recorrente. | 🟢 Ativo ([belyx.com.br](https://belyx.com.br)) |
+| **[Belyx (Clube de Assinatura)](https://github.com/HenriquePizara/clube-assinatura-cabelo)** | Sistema de gestão de agendamentos com IA e motor de clubes de assinatura recorrente. | 🟢 Ativo ([belyx.com.br](https://belyx.com.br)) |
 | **[GLP-1 Care](https://github.com/HenriquePizara/glp1care)** | Plataforma especializada em gestão clínica e acompanhamento de tratamentos GLP-1. | 🟢 Produção ([glp1care.com.br](https://glp1care.com.br)) |
 | **[Congelart BI](https://github.com/HenriquePizara/aplicacao_congelart)** | Business Intelligence e Analytics operacional para indústria de alimentos congelados. | 🟢 Em Operação |
 | **[Estoque Laboratorial](https://github.com/HenriquePizara/estoque-laboratoria)** | Sistema de rastreabilidade e gestão em tempo real de reagentes e amostras clínicas. | 🟢 Em Operação |
 | **[Inspetor Qualidade Injeção (LTIQ)](https://github.com/HenriquePizara/qualidade-injecao)** | Inspeção visual multimodal com IA para injeção plástica e emissão de laudos oficiais PDF. | 🟢 Homologado |
-| **EGIS 360 QA** | Suite de Quality Assurance heurístico automatizado em lote para ERP industrial EGIS Net. | 🟢 Em Operação |
 | **[Bariloche Gourmet](https://github.com/HenriquePizara/encomendas-bariloche-gourmet)** | Plataforma de gestão de encomendas, produção e delivery gastronômico artesanal. | 🟢 Ativo |
+| **[MundoStore Desktop/App](https://github.com/HenriquePizara/mundostore-app)** | Aplicação Desktop/Mobile de catálogo digital, estoque e pedidos (Electron/Vite). | 🟢 Homologado |
+| **[WbAnalisa](https://github.com/HenriquePizara/wbAnalisa)** | Plataforma analítica para diagnóstico de demonstrativos contábeis e fluxo financeiro. | 🟢 Em Operação |
+| **[João Maia Nutricionista](https://github.com/HenriquePizara/joaomaianutricionista)** | Portal clínico de alta performance para nutrição esportiva e acompanhamento individual. | 🟢 Ativo |
+| **EGIS 360 QA** | Suite de Quality Assurance heurístico automatizado em lote para ERP industrial EGIS Net. | 🟢 Em Operação |
 
 
 ---
